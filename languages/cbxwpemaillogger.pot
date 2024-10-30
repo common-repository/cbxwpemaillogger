@@ -1,0 +1,814 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Email Logger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-26 09:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. %s template
+#: includes/cbxwpemaillogger-functions.php:89
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:470
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: templates/admin/dashboard.php:190
+msgid "Access our Premium Support"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-settings.php:775
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:730
+msgid "Apply"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:743
+#: admin/class-cbxwpemaillogger-admin.php:783
+msgid ""
+"Are you sure to delete? On successful delete information will be lost "
+"forever."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:744
+msgid "Are you sure to resend? This action can not be reversed."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:486
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:408
+#: templates/admin/cbxwpemaillogger-log.php:207
+msgid "Attachments"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:26
+msgid "Back to Log Listing"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:406
+#: templates/admin/cbxwpemaillogger-log.php:162
+msgid "BCC"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:27
+msgid "CBX Email logger - Email Testing"
+msgstr ""
+
+#: templates/admin/dashboard.php:18
+msgid "CBX Email logger - Helps & Updates"
+msgstr ""
+
+#: templates/admin/settings-display.php:24
+msgid "CBX Email logger - Settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:210
+msgid "CBX Email logger Plugin Information"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Email SMTP & Logger"
+msgstr ""
+
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:26
+msgid "CBX SMTP & Logs: Latest Email Log"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:524
+msgid "CBX SMTP and Email Logger Dashboard"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:405
+#: templates/admin/cbxwpemaillogger-log.php:136
+msgid "CC"
+msgstr ""
+
+#: templates/admin/dashboard.php:235
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1611
+#: admin/class-cbxwpemaillogger-admin.php:1625
+#, php-format
+msgid ""
+"Check Plugin <a href=\"%s\">Setting</a> and <a href=\"%s\" target=\"_blank\">"
+"<span class=\"dashicons dashicons-external\"></span> Documentation</a>"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:324
+msgid "Choose Custom Mailer"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-settings.php:646
+msgid "Choose File"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:409
+msgid "Choose SMTP Server"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:729
+msgid "Clear"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: templates/admin/dashboard.php:284
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-helper.php:34
+msgid "Contact Form 7"
+msgstr ""
+
+#: templates/admin/dashboard.php:124
+msgid "Contact Form(s)"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:232
+msgid "Control Email logging, default is enabled on after plugin activated."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:275
+msgid "Control Email Sending"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:276
+msgid ""
+"Control email sending, default is disabled on after plugin activated. "
+"<strong>If disabled, this plugin will not touch any email sending feature."
+"</strong>"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:316
+msgid "Custom Mailer(Choose from Email Sending Tab)"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:731
+msgid "Custom Range"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-helper.php:76
+msgid "Custom SMTP Host Server"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:399
+#: templates/admin/cbxwpemaillogger-log.php:47
+#: templates/admin/cbxwpemaillogger-logs.php:59
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:51
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:117
+msgid "Date"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:311
+msgid "Default is wordpress default"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:742
+#: includes/class-cbxwpemaillogger-helper.php:185
+#: includes/class-cbxwpemaillogger-logs.php:77
+#: includes/class-cbxwpemaillogger-logs.php:359
+msgid "Delete"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:616
+msgid "Delete All"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:468
+msgid "Delete Global Config data created by this plugin on uninstall."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:242
+msgid "Delete Old email logs"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:617
+msgid "Delete Old Logs"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:469
+msgid ""
+"Details <a data-target=\"cbxwpemaillogger_resetinfo\" "
+"class=\"cbxwpemaillogger_jump\" href=\"#\">option values</a>"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:236
+#: admin/class-cbxwpemaillogger-admin.php:267
+#: admin/class-cbxwpemaillogger-admin.php:280
+msgid "Disable"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:120
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin/dashboard.php:110
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:189
+msgid "Email Body"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:79
+msgid "Email Body Test"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:156
+msgid "Email Control"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:152
+msgid "Email Log"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:231
+msgid "Email Log Control"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:23
+#, php-format
+msgid "Email Log ID: %d"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1368
+msgid "Email log successfully."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:561
+#: templates/admin/cbxwpemaillogger-logs.php:26
+msgid "Email Logs"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1210
+msgid "Email ReSend but failed."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1204
+msgid "Email ReSend successfully sent."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:302
+msgid "Email Return path"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:160
+msgid "Email Sending"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1864
+#: admin/class-cbxwpemaillogger-admin.php:1867
+#, php-format
+msgid "Email sent failed. Error message: %s"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1854
+msgid "Email sent successfully"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:525
+msgid "Email SMTP"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:75
+msgid "Email Subject"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:79
+msgid "Email Template/Body Preview"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:547
+#: admin/class-cbxwpemaillogger-admin.php:548
+#: templates/admin/cbxwpemaillogger-logs.php:30
+msgid "Email Testing"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:310
+msgid "Emailer"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:235
+#: admin/class-cbxwpemaillogger-admin.php:266
+#: admin/class-cbxwpemaillogger-admin.php:279
+msgid "Enable"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:348
+msgid "Enable Service"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:243
+msgid "Error Message"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:246
+msgid "Error not traced"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:313
+#: templates/admin/cbxwpemaillogger-log.php:237
+#: templates/admin/cbxwpemaillogger-logs.php:56
+msgid "Failed"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1381
+msgid "Failed to delete or not enough access to delete"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1224
+msgid "Failed to send or not enough access to send"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:82
+msgid "File"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-logs.php:62
+#: templates/admin/cbxwpemaillogger-logs.php:63
+msgid "Filter By Email Source"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-logs.php:53
+#: templates/admin/cbxwpemaillogger-logs.php:54
+msgid "Filter By Status"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:706
+msgid "First page"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:182
+msgid "Following option values created by this plugin(including addon)"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:114
+msgid "Free Support"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:403
+#: templates/admin/cbxwpemaillogger-log.php:98
+msgid "From"
+msgstr ""
+
+#: templates/admin/dashboard.php:34
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:539
+#: admin/class-cbxwpemaillogger-admin.php:540
+#: templates/admin/cbxwpemaillogger-logs.php:29
+#: templates/admin/emailtesting-display.php:32
+msgid "Global Setting"
+msgstr ""
+
+#: templates/admin/dashboard.php:178
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:553
+#: admin/class-cbxwpemaillogger-admin.php:554
+msgid "Helps & Updates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-email-logger-for-wordpress/"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:303
+msgid "If blank will ignore"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:263
+msgid ""
+"If enabled attachments will be stored. If log deleted attachments will be "
+"deleted from the stored location. Sometimes attachment are sent from "
+"dynamically generated contents which is deleted from memory after email is "
+"sent, if not stored separately then email resend feature will not be able to "
+"attach email. This feature is default disabled."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:243
+msgid ""
+"If enabled it will check everyday if there is any x days old emails. Number "
+"of days(x) is configured in next field. This plugin needs to deactivate and "
+"activate again to make this feature work."
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:409
+#: templates/admin/cbxwpemaillogger-log.php:222
+msgid "IP Address"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:735
+msgid "Last 30 Days"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:734
+msgid "Last 7 Days"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:737
+msgid "Last Month"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:287
+#: admin/class-cbxwpemaillogger-admin.php:295
+msgid "Leave blank/empty to use default"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:410
+msgid "List is showing only enabled servers"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:31
+msgid "Log Listing"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:27
+msgid "Log Setting"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:78
+msgid "Message"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1811
+msgid "Message is empty"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:215
+msgid "N/A"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:247
+#: admin/class-cbxwpemaillogger-admin.php:353
+#: admin/class-cbxwpemaillogger-admin.php:386
+#: admin/class-cbxwpemaillogger-admin.php:475
+msgid "No"
+msgstr ""
+
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:105
+msgid "No email log found"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:590
+msgid "No log found. Please change your search criteria for better result."
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:375
+msgid "None(Port: 25)"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:84
+msgid "Note: File will be deleted after sending email"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:254
+msgid "Number of days"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:255
+msgid "Number of days email will be deleted as old based on email send date"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:642
+msgid "Number of items per page"
+msgstr ""
+
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:209
+msgid "Number of items:"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:746
+#: admin/class-cbxwpemaillogger-admin.php:785
+msgid "Oh! No"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:467
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:189
+#: admin/class-cbxwpemaillogger-admin.php:213
+msgid "Option ID"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:188
+#: admin/class-cbxwpemaillogger-admin.php:212
+msgid "Option Name"
+msgstr ""
+
+#: templates/admin/dashboard.php:132
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:286
+msgid "Override From Email"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:294
+msgid "Override From Name"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:781
+#: includes/class-cbxwpemaillogger-settings.php:515
+msgid "Please Select"
+msgstr ""
+
+#: templates/admin/dashboard.php:201
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: templates/admin/dashboard.php:228
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: templates/admin/dashboard.php:220
+msgid "Read the CBX Email logger User Guide"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:404
+#: templates/admin/cbxwpemaillogger-log.php:110
+msgid "ReplyTo"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:81
+msgid "ReSend"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:482
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:483
+#, php-format
+msgid ""
+"Reset option values created by this plugin. \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:116
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:262
+msgid "Save Attachment Files"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-settings.php:975
+#: templates/admin/settings-display.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-logs.php:70
+msgid "Search"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:739
+msgid "Search Term"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:313
+msgid "See error message in details mode"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:741
+msgid "Select Media"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:782
+msgid "Select Media File"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:89
+msgid "Send Test Email"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:313
+#: templates/admin/cbxwpemaillogger-log.php:237
+#: templates/admin/cbxwpemaillogger-logs.php:55
+msgid "Sent"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:89
+#: templates/admin/emailtesting-display.php:45
+#: templates/admin/settings-display.php:46
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:382
+msgid "SMTP Authentication"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:358
+msgid "SMTP Host"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:331
+msgid "SMTP Host Servers"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-helper.php:121
+#, php-format
+msgid "SMTP Host Servers #%d(%s, %s)"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:399
+msgid "SMTP Password"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:364
+msgid "SMTP Port"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:371
+msgid "SMTP Secure"
+msgstr ""
+
+#: templates/admin/cbxwpemaillogger-log.php:28
+msgid "SMTP Setting"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:392
+msgid "SMTP Username"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:410
+msgid "Source"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:376
+msgid "SSL(Port: 465)"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:407
+#: templates/admin/cbxwpemaillogger-log.php:232
+msgid "Status"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:401
+#: templates/admin/cbxwpemaillogger-log.php:89
+#: templates/admin/emailtesting-display.php:74
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:49
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:115
+msgid "Subject"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1809
+msgid "Subject is empty"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:745
+#: admin/class-cbxwpemaillogger-admin.php:784
+msgid "Sure"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:79
+msgid "Template"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:79
+msgid "Test Email Body Text"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:75
+msgid "Test Email Subject"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1610
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Email SMTP & Logger</strong> "
+"V%s - <a href=\"%s\" target=\"_blank\">Codeboxr Team</a>"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1624
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Email SMTP & Logger</strong> V%s - <a "
+"href=\"%s\" target=\"_blank\">Codeboxr Team</a>"
+msgstr ""
+
+#: templates/admin/dashboard.php:66
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:736
+msgid "This Month"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:377
+msgid "TLS(Port: 465)"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:400
+#: templates/admin/cbxwpemaillogger-log.php:63
+#: templates/admin/emailtesting-display.php:70
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:50
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:116
+msgid "To"
+msgstr ""
+
+#: templates/admin/emailtesting-display.php:71
+msgid "To email"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:1807
+msgid "To email is not valid"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:732
+msgid "Today"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:164
+msgid "Tools"
+msgstr ""
+
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:128
+msgid "Try Pro"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:122
+msgid "Try Pro Addon"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:402
+msgid "Type"
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:343
+msgid "Untraced"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:740
+msgid "Upload"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Various SMTP protocol, Logs email, tracks sent or failed status and more."
+msgstr ""
+
+#: includes/class-cbxwpemaillogger-logs.php:75
+#: includes/class-cbxwpemaillogger-logs.php:357
+msgid "View"
+msgstr ""
+
+#: widgets/dashboard_widgets/class-cbxwpemaillogger-dashboard-widget.php:122
+msgid "View All"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:89
+msgid "View settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:96
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:315
+msgid "WordPress Default"
+msgstr ""
+
+#: templates/admin/dashboard.php:82
+msgid "WPForms"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:246
+#: admin/class-cbxwpemaillogger-admin.php:352
+#: admin/class-cbxwpemaillogger-admin.php:387
+#: admin/class-cbxwpemaillogger-admin.php:474
+msgid "Yes"
+msgstr ""
+
+#: admin/class-cbxwpemaillogger-admin.php:733
+msgid "Yesterday"
+msgstr ""

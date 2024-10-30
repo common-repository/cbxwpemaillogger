@@ -1,0 +1,120 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cbxwpemaillogger_body {
+	overflow: hidden;
+	padding-top: 56.25%;
+	position: relative;
+}
+
+.cbxwpemaillogger_body iframe {
+	border: 0;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+/* 4x3 Aspect Ratio */
+.cbxwpemaillogger_body-4x3 {
+	padding-top: 75%;
+}
+
+
+#delete_all_old{
+	margin-left: 10px;
+}
+/*.wp-heading-inline:before{
+	position: absolute;
+	left: 0;
+	top: 10px;
+	content: '';
+	width: 29px;
+	height: 29px;
+	background-image: url("../images/icon_c_48.png");
+	display: inline-block;
+	background-size: contain;
+}*/
+
+
+
+.ply-ok, .ply-cancel{
+	border: 1px solid #005ae0;
+}
+
+.ply-ok{
+	background-color: #005ae0 !important;
+}
+
+.ply-cancel{
+	background-color: #fff;
+	color: #005ae0 !important;;
+}
+
+#adminmenu .wp-menu-open.toplevel_page_cbxwpemaillogger{
+	background-color: #005ae0 !important;
+}
+
+#TB_ajaxWindowTitle{
+	background-color: #005ae0 !important;
+	color: #fff;
+}
+.tb-close-icon:before{
+	color: #fff;
+}
+
+.flatpickr-months .flatpickr-month, .flatpickr-current-month{
+	line-height: 1.5 !important;
+}
+
+
+
+/*email testing*/
+.emailtesting-form{}
+.emailtesting-form .emailtesting-form-input{
+	margin-bottom: 10px;
+}
+.emailtesting-form .emailtesting-form-input label{
+	width: 100%;
+	display: block;
+	margin-bottom: 5px;
+}
+
+.emailtesting-form .emailtesting-form-input input,
+.emailtesting-form .emailtesting-form-input textarea{
+	width: 100%;
+}
+
+.cbxwpemaillogger_brand_wrap  h2{
+	color: #fff;
+	margin-bottom: 0;
+	margin-top: 0px;
+}
+
+.cbxwpemaillogger_brand_wrap  h2 img{
+	display: inline-block;
+	margin: 0 5px 0 0px;
+	vertical-align: middle;
+}
+
+.cbxwpemaillogger_brand_wrap .cbxwpemaillogger_brand_extra{
+	text-align: right;
+	margin-bottom: 0px;
+}
+.cbxwpemaillogger_brand_wrap .cbxwpemaillogger_brand_extra .cbxwpemaillogger_brand_version{}
+.cbxwpemaillogger_brand_wrap .cbxwpemaillogger_brand_extra .cbxwpemaillogger_brand_documentation{
+	color: #fff;
+}
+
+.cbxwpemaillogger_brand_wrap .notice{
+	color: #444;
+	border-left-width:0px !important;
+}
+
+.search-box-filters{}
+.search-box-filters .search-box{
+	display: inline;
+}
